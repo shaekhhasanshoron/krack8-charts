@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  lighthouse-agent:
+    - apiVersion: v2
+      appVersion: 1.0.0
+      created: "2025-02-11T15:54:24.985824587+06:00"
+      description: Lighthouse Agent
+      digest: b9de58565347f1ca123e66b839b51df24750302f58e926e96eed1da8b17b9d34
+      name: lighthouse-agent
+      type: application
+      urls:
+        - https://shaekhhasanshoron.github.io/krack8-charts/krack8/lighthouse-agent/charts/lighthouse-agent-1.0.0.tgz
+      version: 1.0.0
+generated: "2025-02-11T15:54:24.70348561+06:00"
