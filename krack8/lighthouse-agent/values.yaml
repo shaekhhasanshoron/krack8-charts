@@ -1,0 +1,14 @@
+replicaCount: 1
+
+global:
+  namespace: ""
+
+image:
+  repository: nginx
+  pullPolicy: IfNotPresent
+  tag: latest
+
+service:
+  port: 8080
+
+apiToken: ""
