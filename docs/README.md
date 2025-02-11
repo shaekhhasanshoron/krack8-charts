@@ -1,4 +1,4 @@
-# Krack8 Charts
+# Docs
 ## Creating Chart
 ### Creating New Helm Chart
 Run the command from `srn@srn-O7:/mnt/KloverCloud/klovercloud-opensource/krack8/charts/krack8` directory
