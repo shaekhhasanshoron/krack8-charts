@@ -10,6 +10,8 @@ entries:
       type: application
       urls:
         - https://shaekhhasanshoron.github.io/krack8-charts/packages/lighthouse-agent-1.0.0.tgz
+      sources:
+        - https://github.com/shaekhhasanshoron/krack8-charts
       version: 1.0.0
   helm-marketplace:
     - apiVersion: v2
@@ -21,5 +23,7 @@ entries:
       type: application
       urls:
         - https://shaekhhasanshoron.github.io/krack8-charts/packages/helm-marketplace-1.0.0.tgz
+      sources:
+        - https://github.com/shaekhhasanshoron/krack8-charts
       version: 1.0.0
 generated: "2025-02-11T15:54:24.70348561+06:00"
